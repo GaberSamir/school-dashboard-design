@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/gabersamirgabermahmoud-3791s-projects/v0-school-dashboard-design](https://vercel.com/gabersamirgabermahmoud-3791s-projects/v0-school-dashboard-design)**
+**[https://vercel.com/gabersamirgabermahmoud-3791s-projects/v0-school-dashboard-design](https://v0-school-dashboard-design-gamma.vercel.app/)**
 
 ## Build your app
 
